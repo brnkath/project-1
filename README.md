@@ -14,12 +14,18 @@ Contributors: Alex Calametti, Katy Yelle, Raeshawn Mcallister, and Brian Kath
 		- Airbnb_analysis_stats.ipynb
 		- Airbnb_HypothesisTests.ipynb
 		- Airbnb_analysis_datadescription.ipynb
+  		- data_pulling.ipynb
 
 	- Sub-folders
 		- output
+  			- average_price_per_listing.csv
+     			- average_price_per_listing_2020.csv
+			- average_price_per_listing_2023.csv
 			- clean_2020.csv
 			- clean_2023.csv
+   			- per_city_2020.csv
 			- per_city_2023.csv
+   			- summary_data.csv
 		- resources
 			- AB_US_2020.csv
 			- AB_US_2023.csv
@@ -33,6 +39,7 @@ Contributors: Alex Calametti, Katy Yelle, Raeshawn Mcallister, and Brian Kath
 			- 2023scatterplot3.png
 			- 2023scatterplot4.png
 			- Hvplots.png
+   			- boxplot_w_2k_ylim.png
 			- fig1_2020.png
 			- fig1_2023.png
 			- fig2_2020.png
